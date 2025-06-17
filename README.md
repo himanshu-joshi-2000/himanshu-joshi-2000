@@ -18,7 +18,7 @@ I'm an experienced **Information Security Consultant** specializing in **Offensi
 ---
 
 ### 🧾 Certifications
-- 🎯 **Certified Red Team Professional (CRTP)** – Pentester Academy
+- 🎯 **Certified Red Team Professional (CRTP)** – Altered Security's
 - ⚔️ **Certified Ethical Hacker (CEH)** – EC-Council
 - 🔍 **Certified Advanced Penetration Tester (CAPen)** – Hack The Box
 
@@ -27,7 +27,7 @@ I'm an experienced **Information Security Consultant** specializing in **Offensi
 ### 🛠️ Tools & Skills
 - **Scripting & Automation:** Python, PowerShell, Bash, Frida
 - **Red Teaming Tools:** BloodHound, Mimikatz, C2 frameworks (Covenant, Sliver, Mythic)
-- **Mobile Testing:** Frida, Objection, MobSF, Burp Suite
+- **Mobile Testing:** Frida, Objection, MobSF, Burp Suite, Apktool
 - **Cloud & AD Exploitation:** AzureHound, AADInternals, PowerView, PowerUpSQL
 - **Operating Systems:** Kali Linux, Windows, Parrot OS, Android (Emulators/Real)
 
@@ -48,11 +48,11 @@ I'm an experienced **Information Security Consultant** specializing in **Offensi
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
-- 🌐 Blog (Coming Soon)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/himanshu-joshi-21aba21a9/))
+- 📧 Email: himanshuj027[at]gmail.com
+- 🌐 [Blog](https://medium.com/@himanshuj027)
 
 ---
 
 > 🧠 *"Attack to learn. Defend to grow. Hack with ethics."*  
-> — Himanshu
+> — Himanshu Joshi
