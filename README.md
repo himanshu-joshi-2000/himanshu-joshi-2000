@@ -48,9 +48,9 @@ I'm an experienced **Information Security Consultant** specializing in **Offensi
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/himanshu-joshi-21aba21a9/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/himanshu-joshi-21aba21a9/])
 - 📧 Email: himanshuj027[at]gmail.com
-- 🌐 [Blog](https://medium.com/@himanshuj027)
+- 🌐 [Blog]([https://medium.com/@himanshuj027])
 
 ---
 
