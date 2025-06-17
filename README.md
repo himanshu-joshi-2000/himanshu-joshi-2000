@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Himanshu</h1>
+<h1 align="center">👋 Hey there, I'm Himanshu Joshi</h1>
 <p align="center">
   <em>Cybersecurity Consultant | Offensive Security Enthusiast | Red Team Specialist</em><br>
   <strong>CRTP | CEH | CAPen</strong>
@@ -50,7 +50,7 @@ I'm an experienced **Information Security Consultant** specializing in **Offensi
 ### 📫 Connect with Me
 - 💼 [LinkedIn]([https://www.linkedin.com/in/himanshu-joshi-21aba21a9/])
 - 📧 Email: himanshuj027[at]gmail.com
-- 🌐 [Blog]([https://medium.com/@himanshuj027])
+- 🌐 [Blog]((https://medium.com/@himanshuj027))
 
 ---
 
